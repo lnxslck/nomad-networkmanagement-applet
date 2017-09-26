@@ -2,7 +2,7 @@ Source: nomad-networkmanagement-applet
 Section: KDE
 Priority: optional
 Maintainer: Alexis López Zubieta <azubieta90@gmail.com>
-Build-Depends: debhelper (>=9), cmake, extra-cmake-modules, libkf5i18n-dev, plasma-framework-dev
+Build-Depends: debhelper (>=9), cmake, extra-cmake-modules, libkf5i18n-dev, plasma-framework-dev, libkf5windowsystem-dev
 Standards-Version: 3.9.6
 #Vcs-Git: git://anonscm.debian.org/collab-maint/nomad-networkmanagement-applet.git
 #Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/nomad-networkmanagement-applet.git
